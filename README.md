@@ -1,5 +1,5 @@
 # gcp_net_vpc_network Terraform Module
-![Maintained by Priceline.com](https://img.shields.io/badge/maintained%20by-priceline.com-blue)
+![Maintained by Hassan-DevOps](https://img.shields.io/badge/maintained%20by-Hassan-DevOps-blue)
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.13.0-blue.svg)
 ![Precommit Enabled](https://img.shields.io/badge/precommit-enabled-blue.svg)
 
