@@ -1,0 +1,24 @@
+formatter: markdown table
+
+sections:
+  show:
+    - header
+    - inputs
+    - resources
+    - modules
+    - outputs
+
+output:
+  file: README.md
+  mode: inject
+
+settings:
+  indent: 4
+  escape: false
+  default: true
+  required: true
+  type: true
+
+sort:
+  enabled: true
+  by: required
